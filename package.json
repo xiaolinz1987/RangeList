@@ -1,0 +1,19 @@
+{
+  "name": "rangelist",
+  "version": "1.0.0",
+  "description": "A JavaScript solution to perform operations over a few integer ranges",
+  "main": "RangeList.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaolinz1987/RangeList.git"
+  },
+  "author": "Xiaolin Zhu",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "homepage": "https://github.com/xiaolinz1987/RangeList#readme"
+}
